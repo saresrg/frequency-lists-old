@@ -2,9 +2,7 @@
 
 Frequency lists for Sunnyvale Amateur Radio Emergency Service (SARES).
 
-This is an unofficial repository.
-
-You may also download the lists from https://www.saresrg.org/resources
+The latest files can also be found at https://github.com/saresrg/frequency-lists/releases/latest
 
 ## Programming Your Radio with Chirp
 
