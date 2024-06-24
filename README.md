@@ -1,4 +1,8 @@
-# frequency-lists
+# frequency-lists (old)
+
+*This is an obsolete repository.*
+
+Please visit the [Go Kit Forms](https://github.com/saresrg/Go-Kit-Forms) repository.
 
 Frequency lists for Sunnyvale Amateur Radio Emergency Service (SARES).
 
